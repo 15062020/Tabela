@@ -1,0 +1,76 @@
+body{
+  
+    background-image: url(fundo\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    border: none;
+}
+
+.topo{background-color: #3a0b63;}
+table{
+    width: 100%;
+    height: 765px;
+    border: none;
+}
+td{
+    padding: 25;
+    height: 10%;
+    width: 25%;
+    border: none;
+}
+.centro
+{
+    padding-left: 10%;
+}
+.rosinha
+{
+    background-color: rgba(251, 69, 199, 1);
+    color: white;
+}
+.verdinho
+{
+    background-color: #89f668;
+    column-count: 3;
+    text-align: center;
+    padding: 50%;
+    height: 20%;
+   
+
+}
+.icone{
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: 20px;
+   }
+.icone01{
+    column-count: 3;
+    padding-left: 15%;
+
+}
+.icone02{
+    column-count: 3;
+    padding-left: 30%;
+    padding-top: 0%;
+}
+
+.icone04{
+    column-count: 3;
+    padding-left: 45%;
+    padding-top: 0%;
+}
+.centro_texto{
+    text-align: center;
+    color: #89f668;
+}
+.roxo_escuro{
+    background-color: rgba(67,11,110,1);
+    color: #89f668;
+    text-align: center;
+}
+.roxo_fundo{
+    background-color: #5b1078;
+
+}
+
+.container img { max-width: 600px; }
